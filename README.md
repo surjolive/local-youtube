@@ -23,6 +23,18 @@ The app:
 
 Keep the PC and phone on the same Wi-Fi network. Windows Firewall may ask you to allow access on private networks.
 
+## Screenshots
+
+### Desktop
+
+![Local YouTube desktop view](screenshots/desktop.png)
+
+### Mobile
+
+![Local YouTube mobile view](screenshots/mobile.png)
+
+The Windows launcher opens automatically in the browser and shows the local address and available Wi-Fi/LAN addresses without a terminal window.
+
 ## Features
 
 - Home, Shorts, History, Favorites, Playlists, Liked videos, and Library views
