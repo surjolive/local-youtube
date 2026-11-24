@@ -29,7 +29,7 @@ The app:
 - Local: `http://localhost:8000`
 - Wi-Fi/LAN: `http://YOUR-PC-IP:8000`
 
-Keep the PC and phone on the same Wi-Fi network. Windows Firewall may ask you to allow access on private networks.
+Keep the PC and connected device on the same Wi-Fi network. Windows Firewall may ask you to allow access on private networks.
 
 ## Screenshots
 
@@ -37,21 +37,17 @@ Keep the PC and phone on the same Wi-Fi network. Windows Firewall may ask you to
 
 <img src="https://raw.githubusercontent.com/surjolive/local-youtube/main/screenshots/desktop.png" alt="Local YouTube desktop view" width="100%">
 
-### Mobile
-
-<img src="https://raw.githubusercontent.com/surjolive/local-youtube/main/screenshots/mobile.png" alt="Local YouTube mobile view" width="390">
-
 The Windows launcher opens automatically in the browser and shows the local address and available Wi-Fi/LAN addresses without a terminal window.
 
 ## Features
 
 - Home, Shorts, History, Favorites, Playlists, Liked videos, and Library views
-- Search, categories, sorting, and responsive mobile navigation
+- Search, categories, and sorting
 - Custom video and audio player controls
 - Resume playback and local watch history
 - Browser IndexedDB storage for playlists and library preferences
 - MP4, MOV, MP3, and server-discovered media support
-- Desktop, tablet, and phone layouts
+- Desktop and tablet layouts
 
 ## Run from source
 
