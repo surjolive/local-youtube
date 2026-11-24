@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# Generated packaging
+build/
+*.spec
+
+# Local generated data
+.compatible/
+.thumbnails/
+
+# OS files
+Thumbs.db
+.DS_Store
