@@ -5,6 +5,7 @@ __pycache__/
 
 # Generated packaging
 build/
+dist/
 *.spec
 
 # Local generated data
