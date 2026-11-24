@@ -35,7 +35,7 @@ Keep the PC and connected device on the same Wi-Fi network. Windows Firewall may
 
 ### Desktop
 
-<img src="https://raw.githubusercontent.com/surjolive/local-youtube/main/screenshots/desktop.png" alt="Local YouTube desktop view" width="100%">
+<img src="https://raw.githubusercontent.com/surjolive/local-youtube/main/screenshots/target-desktop.png" alt="Local YouTube desktop view" width="100%">
 
 The Windows launcher opens automatically in the browser and shows the local address and available Wi-Fi/LAN addresses without a terminal window.
 
