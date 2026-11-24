@@ -37,6 +37,10 @@ Keep the PC and connected device on the same Wi-Fi network. Windows Firewall may
 
 <img src="https://raw.githubusercontent.com/surjolive/local-youtube/main/screenshots/target-desktop.png" alt="Local YouTube desktop view" width="100%">
 
+### Mobile
+
+<img src="https://raw.githubusercontent.com/surjolive/local-youtube/main/screenshots/mobile.png" alt="Local YouTube mobile view" width="390">
+
 The Windows launcher opens automatically in the browser and shows the local address and available Wi-Fi/LAN addresses without a terminal window.
 
 ## Features
@@ -47,7 +51,7 @@ The Windows launcher opens automatically in the browser and shows the local addr
 - Resume playback and local watch history
 - Browser IndexedDB storage for playlists and library preferences
 - MP4, MOV, MP3, and server-discovered media support
-- Desktop and tablet layouts
+- Desktop, tablet, and mobile layouts
 
 ## Run from source
 
