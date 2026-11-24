@@ -1,12 +1,20 @@
+<div align="center">
+
 # Local YouTube
 
-A private, desktop-ready video library for your own media. Local YouTube runs a small server on your Windows PC and streams selected local videos in a polished browser interface.
+**A private, desktop-ready video library for your own media.**
 
-![Local YouTube icon](local-youtube.png)
+<img src="https://raw.githubusercontent.com/surjolive/local-youtube/main/local-youtube.png" alt="Local YouTube icon" width="128">
+
+[Download Windows EXE](https://github.com/surjolive/local-youtube/releases/latest) · [View Screenshots](#screenshots) · [MIT License](LICENSE)
+
+</div>
+
+Local YouTube runs a small server on your Windows PC and streams selected local videos in a polished browser interface.
 
 ## Download
 
-Download `Local YouTube.exe` from the [latest GitHub release](../../releases/latest), then place it anywhere on Windows and double-click it.
+Download `Local YouTube.exe` from the [latest GitHub release](https://github.com/surjolive/local-youtube/releases/latest), then place it anywhere on Windows and double-click it.
 
 The app:
 
@@ -27,11 +35,11 @@ Keep the PC and phone on the same Wi-Fi network. Windows Firewall may ask you to
 
 ### Desktop
 
-![Local YouTube desktop view](screenshots/desktop.png)
+<img src="https://raw.githubusercontent.com/surjolive/local-youtube/main/screenshots/desktop.png" alt="Local YouTube desktop view" width="100%">
 
 ### Mobile
 
-![Local YouTube mobile view](screenshots/mobile.png)
+<img src="https://raw.githubusercontent.com/surjolive/local-youtube/main/screenshots/mobile.png" alt="Local YouTube mobile view" width="390">
 
 The Windows launcher opens automatically in the browser and shows the local address and available Wi-Fi/LAN addresses without a terminal window.
 
